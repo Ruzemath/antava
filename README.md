@@ -51,7 +51,7 @@ Patients can interact with the system via a portal, allowing them to view their 
    git clone https://github.com/yourusername/antava.git
    ```
    
-3. **Build the Project:
+3. **Build the Project**:
    - Open the project in your IDE
    - Ensure that JavaFX is properly configured in your build settings.
    - Compile and run the application.
