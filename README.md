@@ -1,6 +1,6 @@
-# Antava: Office Automation System for Pediatric Doctor’s Office
-
 <img src="src/antava/logo.jpg" alt="Antava Logo" width="200"/>
+
+# Antava: Automation System for Pediatric Doctor’s Office
 
 ## Project Overview
 **Antava** is an office automation system designed specifically for pediatric doctor's offices. It aims to streamline operations, like inputting patient vitals or examination results, by reducing paperwork and enhancing the accessibility of patient records. The system is intended for use by doctors, nurses, patients, and their parents/guardians. This particular project focuses on a desktop application with a graphical user interface (GUI) built using Java and JavaFX.
