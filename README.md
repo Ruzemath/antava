@@ -1,7 +1,7 @@
 # Antava: Automation System for Pediatric Doctor’s Office
 
 <p align="center">
-  <img src="src/antava/antava.jpg" alt="Antava Logo" width="200"/> 
+  <img src="src/antava/logo.jpg" alt="Antava Logo" width="200"/> 
 </p>
 
 ## Project Overview
