@@ -57,6 +57,6 @@ Patients can interact with the system via a portal, allowing them to view their 
    - Compile and run the application.
 
 ## Acknowledgments
-This project was developed by a team of students from the Arizona State University (ASU) CSE 360 course. Our collaborative effort focused on designing and implementing Antava as a simulation of an office automation system for a pediatric doctor's office. This project serves as a practical demonstration of our understanding and skills acquired throughout the course.
+This project was developed by a [team of students](https://github.com/cse360antava/Group-Project) from the Arizona State University (ASU) CSE 360 course. Our collaborative effort focused on designing and implementing Antava as a simulation of an office automation system for a pediatric doctor's office. This project serves as a practical demonstration of our understanding and skills acquired throughout the course.
 
 
